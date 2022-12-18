@@ -1,5 +1,4 @@
-{
-  "medicines": [
+[
     {
       "id" : 1,
       "name" : "Ketonal active",
@@ -56,5 +55,4 @@
       "price" : "14.99",
       "picture" : ""
     }
-  ]
-}
+ ]
