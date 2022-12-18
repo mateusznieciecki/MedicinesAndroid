@@ -11,7 +11,7 @@
       "numberOfRatings" : "78479",
       "allergy" : "xyz",
       "price" : "14.99",
-      "picture" : ""
+      "picture" : "https://www.cefarm24.pl/ketonal-active-50-mg-x-20-kaps.1.jpg"
     },
     {
       "id" : 2,
@@ -25,7 +25,7 @@
       "numberOfRatings" : "78479",
       "allergy" : "xyz",
       "price" : "14.99",
-      "picture" : ""
+      "picture" : "https://www.cefarm24.pl/ketonal-active-50-mg-x-20-kaps.1.jpg"
     },
     {
       "id" : 3,
@@ -39,7 +39,7 @@
       "numberOfRatings" : "78479",
       "allergy" : "xyz",
       "price" : "14.99",
-      "picture" : ""
+      "picture" : "https://www.cefarm24.pl/ketonal-active-50-mg-x-20-kaps.1.jpg"
     },
     {
       "id" : 4,
@@ -53,6 +53,6 @@
       "numberOfRatings" : "78479",
       "allergy" : "xyz",
       "price" : "14.99",
-      "picture" : ""
+      "picture" : "https://www.cefarm24.pl/ketonal-active-50-mg-x-20-kaps.1.jpg"
     }
  ]
