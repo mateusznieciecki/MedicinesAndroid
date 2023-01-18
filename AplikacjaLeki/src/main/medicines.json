@@ -1,5 +1,4 @@
-{
-"medicines": [
+[
     {
       "id" : 1,
       "name" : "Ketonal active",
@@ -57,4 +56,3 @@
       "picture" : "https://azcdn.doz.pl/image/d/product/e079e47d-scale-350x350.jpg"
     }
  ]
-}
